@@ -1,94 +1,36 @@
-<div align="center">
+<a href="https://siddharthgeddam.dev"><img src="assets/header.png" width="100%" alt="Siddharth Geddam, software engineer. siddharthgeddam.dev, Chicago, IL."></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=131314&height=180&section=header&text=Siddharth%20Geddam&fontSize=40&fontColor=A6D800&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Design%20%2B%20Engineering&descAlignY=62&descColor=EDEDED&animation=fadeIn" width="100%"/>
+<img src="assets/hello.svg" width="100%" alt="Hello. I'm Sid, a software engineer in Chicago who loves building things. I've worked across VR headsets, encrypted machine learning, and more recently AI, design systems, and UI/UX. Always curious, always shipping.">
 
-</div>
+<img src="assets/heading-projects.png" width="100%" alt="Projects">
 
-### `whoami`
+<p>
+<a href="https://siddharthgeddam.dev/projects/signpose-vr"><img src="assets/project-signpose-vr.png" width="49%" alt="SignPoseVR, learn ASL in VR. C#, Unity, VR, Meta XR SDK."></a>
+<a href="https://siddharthgeddam.dev/projects/confidential-ml-federated-learning"><img src="assets/project-confidential-ml-federated-learning.png" width="49%" alt="ConfidentialML. Python, federated learning, homomorphic encryption, differential privacy."></a>
+</p>
+<p>
+<a href="https://siddharthgeddam.dev/projects/iit-campus-assistant"><img src="assets/project-iit-campus-assistant.png" width="49%" alt="IIT Campus Assistant. Python, Apache Kafka, FAISS, RAG, LLM integration."></a>
+<a href="https://siddharthgeddam.dev/projects/spatial-inequality-cook-county"><img src="assets/project-spatial-inequality-cook-county.png" width="49%" alt="Neighborhood Evolution in Cook County. R, spatial analysis, network science, Louvain clustering."></a>
+</p>
+<p>
+<a href="https://siddharthgeddam.dev/projects/sidportfolio-engineering"><img src="assets/project-sidportfolio-engineering.png" width="49%" alt="Portfolio, engineering the interface. React, TypeScript, Tailwind, Vite."></a>
+<a href="https://siddharthgeddam.dev/projects/ieee-iit-style-guide"><img src="assets/project-ieee-iit-style-guide.png" width="49%" alt="IEEE at IIT style guide. Figma, UI/UX."></a>
+</p>
 
-Software engineer with a design eye — I build interfaces where the animation and interaction details are engineered, not just styled.
+<p>Every card opens its full case study on <a href="https://siddharthgeddam.dev/projects">siddharthgeddam.dev</a>.</p>
 
-📍 Chicago, IL &nbsp;·&nbsp; 🎓 MSCS @ Illinois Institute of Technology
-&nbsp;·&nbsp; 🔗 [Portfolio](https://your-portfolio-url.com) &nbsp;·&nbsp; [LinkedIn](http://www.linkedin.com/in/siddharth-geddam/)
+<img src="assets/heading-stack.png" width="100%" alt="Stack">
 
-<br/>
+<img src="assets/stack.png" width="100%" alt="Languages: Python, TypeScript, C#, SQL, R. Frontend and design: React, Tailwind, Vite, Figma, Figma MCP, UI/UX. AI, data and privacy: RAG, LLM integration, FAISS, data visualization, spatial analysis, network science, Louvain clustering, federated learning, homomorphic encryption, differential privacy. Infra and tools: Docker, Apache Kafka, Flask, Streamlit, Git. XR: Unity, VR, Meta XR SDK, Unity XR SDK, OpenXR.">
 
-<img src="https://img.shields.io/badge/-131314?style=for-the-badge" width="100%" height="2"/>
+<img src="assets/heading-experience.png" width="100%" alt="Experience">
 
-### `stack`
+<img src="assets/experience.png" width="100%" alt="Teaching assistant, Illinois Institute of Technology, Sept 2025 to Dec 2025. Master of Computer Science, Illinois Institute of Technology, Aug 2024 to May 2026. Systems Engineer, Infosys, Pune, Nov 2022 to May 2024. Bachelor of Computer Engineering, University of Mumbai, Aug 2018 to May 2022.">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/-Python-131314?style=for-the-badge&logo=python&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-TypeScript-131314?style=for-the-badge&logo=typescript&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-Java-131314?style=for-the-badge&logo=openjdk&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-C%2B%2B-131314?style=for-the-badge&logo=cplusplus&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-C%23-131314?style=for-the-badge&logo=csharp&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-R-131314?style=for-the-badge&logo=r&logoColor=A6D800" />
+<p align="center">
+<a href="https://siddharthgeddam.dev">siddharthgeddam.dev</a> &middot;
+<a href="https://www.linkedin.com/in/siddharth-geddam/">LinkedIn</a> &middot;
+<a href="mailto:siddharthgeddam@gmail.com">Email</a>
+</p>
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/-React-131314?style=for-the-badge&logo=react&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-131314?style=for-the-badge&logo=tailwindcss&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-Framer_Motion-131314?style=for-the-badge&logo=framer&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-Vite-131314?style=for-the-badge&logo=vite&logoColor=A6D800" />
-
-**Backend / Infra**
-<br/>
-<img src="https://img.shields.io/badge/-Flask-131314?style=for-the-badge&logo=flask&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-Apache_Kafka-131314?style=for-the-badge&logo=apachekafka&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-Docker-131314?style=for-the-badge&logo=docker&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-PostgreSQL-131314?style=for-the-badge&logo=postgresql&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-SQLite-131314?style=for-the-badge&logo=sqlite&logoColor=A6D800" />
-
-**Data**
-<br/>
-<img src="https://img.shields.io/badge/-NumPy-131314?style=for-the-badge&logo=numpy&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-pandas-131314?style=for-the-badge&logo=pandas&logoColor=A6D800" />
-<img src="https://img.shields.io/badge/-scikit--learn-131314?style=for-the-badge&logo=scikitlearn&logoColor=A6D800" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/-131314?style=for-the-badge" width="100%" height="2"/>
-
-### `featured`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Portfolio Website](https://github.com/Somanyloopholes/sidPortfolio)**
-Animated React/TypeScript SPA with a Figma-sourced design system, scroll-driven timeline, and 3D interaction work.
-
-</td>
-<td width="50%" valign="top">
-
-**[ConfidentialML](https://github.com/CLEMS3/ConfidentialML)**
-Federated learning system combining Paillier homomorphic encryption with Gaussian differential privacy.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[SignPose VR](https://github.com/Somanyloopholes/SignPoseVR)**
-Controller-free ASL hand-tracking app for Meta Quest, published on the Meta Horizon Store — 545 downloads.
-
-</td>
-<td width="50%" valign="top">
-
-**[Spatial Inequality Analysis](https://github.com/Somanyloopholes/Spatial-inequality-analysis)**
-KNN graph construction + Louvain clustering to track Cook County neighborhood change, 2013–2023.
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/-131314?style=for-the-badge" width="100%" height="2"/>
-
-### `stats`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Somanyloopholes&show_icons=true&bg_color=131314&title_color=A6D800&icon_color=A6D800&text_color=EDEDED&border_color=A6D800&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somanyloopholes&layout=compact&bg_color=131314&title_color=A6D800&text_color=EDEDED&border_color=A6D800&hide_border=false" width="45%" />
-
-</div>
+<p align="center"><sub>This README shares one design system with my site and LinkedIn banner. <a href="https://siddharthgeddam.dev/projects/sidportfolio-design">See how it was built.</a></sub></p>
