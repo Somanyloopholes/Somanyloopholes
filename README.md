@@ -6,14 +6,18 @@
 
 <p>
 <a href="https://siddharthgeddam.dev/projects/signpose-vr"><img src="assets/project-signpose-vr.png" width="49%" alt="SignPoseVR, learn ASL in VR. C#, Unity, VR, Meta XR SDK."></a>
+<a href="https://siddharthgeddam.dev/projects/iit-campus-assistant"><img src="assets/project-iit-campus-assistant.png" width="49%" alt="IIT Campus Assistant. Python, Apache Kafka, FAISS, RAG, LLM integration."></a>
+</p>
+<p>
+<a href="https://siddharthgeddam.dev/projects/mars-map"><img src="assets/project-mars-map.png" width="49%" alt="Interactive Mars map, NASA Space Apps Challenge. Python, FastAPI, spatial analysis, Docker, Google Cloud."></a>
 <a href="https://siddharthgeddam.dev/projects/confidential-ml-federated-learning"><img src="assets/project-confidential-ml-federated-learning.png" width="49%" alt="ConfidentialML. Python, federated learning, homomorphic encryption, differential privacy."></a>
 </p>
 <p>
-<a href="https://siddharthgeddam.dev/projects/iit-campus-assistant"><img src="assets/project-iit-campus-assistant.png" width="49%" alt="IIT Campus Assistant. Python, Apache Kafka, FAISS, RAG, LLM integration."></a>
 <a href="https://siddharthgeddam.dev/projects/spatial-inequality-cook-county"><img src="assets/project-spatial-inequality-cook-county.png" width="49%" alt="Neighborhood Evolution in Cook County. R, spatial analysis, network science, Louvain clustering."></a>
+<a href="https://siddharthgeddam.dev/projects/sidportfolio-engineering"><img src="assets/project-sidportfolio-engineering.png" width="49%" alt="Portfolio, engineering the interface. React, TypeScript, Tailwind, Vite."></a>
 </p>
 <p>
-<a href="https://siddharthgeddam.dev/projects/sidportfolio-engineering"><img src="assets/project-sidportfolio-engineering.png" width="49%" alt="Portfolio, engineering the interface. React, TypeScript, Tailwind, Vite."></a>
+<a href="https://siddharthgeddam.dev/projects/sidportfolio-design"><img src="assets/project-sidportfolio-design.png" width="49%" alt="Portfolio, designing the system. Figma, UI/UX, Figma MCP."></a>
 <a href="https://siddharthgeddam.dev/projects/ieee-iit-style-guide"><img src="assets/project-ieee-iit-style-guide.png" width="49%" alt="IEEE at IIT style guide. Figma, UI/UX."></a>
 </p>
 
@@ -21,7 +25,7 @@
 
 <img src="assets/heading-stack.png" width="100%" alt="Stack">
 
-<img src="assets/stack.png" width="100%" alt="Languages: Python, TypeScript, C#, SQL, R. Frontend and design: React, Tailwind, Vite, Figma, Figma MCP, UI/UX. AI, data and privacy: RAG, LLM integration, FAISS, data visualization, spatial analysis, network science, Louvain clustering, federated learning, homomorphic encryption, differential privacy. Infra and tools: Docker, Apache Kafka, Flask, Streamlit, Git. XR: Unity, VR, Meta XR SDK, Unity XR SDK, OpenXR.">
+<img src="assets/stack.png" width="100%" alt="Languages: Python, TypeScript, C#, SQL, R. Frontend and design: React, Tailwind, Vite, Figma, Figma MCP, UI/UX. AI, data and privacy: RAG, LLM integration, FAISS, data visualization, spatial analysis, network science, Louvain clustering, federated learning, homomorphic encryption, differential privacy. Infra and tools: Docker, Google Cloud, Apache Kafka, Flask, FastAPI, Streamlit, Git. XR: Unity, VR, Meta XR SDK, Unity XR SDK, OpenXR.">
 
 <img src="assets/heading-experience.png" width="100%" alt="Experience">
 
